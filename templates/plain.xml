@@ -1,0 +1,8 @@
+<templateSet group="plain">
+  <template name="cb" value="//###########################&#10;// $comments$&#10;//###########################" description="comment box" toReformat="false" toShortenFQNames="true">
+    <variable name="comments" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
